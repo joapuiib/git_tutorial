@@ -2,3 +2,6 @@
 Estem aprenent a utilitzar Git!
 
 Hem modificat un fitxer existent.
+
+## Documentació
+- https://git-scm.com/docs
